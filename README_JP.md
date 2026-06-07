@@ -122,6 +122,33 @@ lines:
   11: "&7Ping: &f%ping%ms"
 ```
 
-## ライセンス
+### カラーコード
+MCScoreboard では Minecraft のカラーコードを使用できます
 
+```yaml
+title: "&6Server Info"
+```
+
+| コード  | 色            |
+| ---- | ------------ |
+| `&0` | Black        |
+| `&1` | Dark Blue    |
+| `&2` | Dark Green   |
+| `&3` | Dark Aqua    |
+| `&4` | Dark Red     |
+| `&5` | Dark Purple  |
+| `&6` | Gold         |
+| `&7` | Gray         |
+| `&8` | Dark Gray    |
+| `&9` | Blue         |
+| `&a` | Green        |
+| `&b` | Aqua         |
+| `&c` | Red          |
+| `&d` | Light Purple |
+| `&e` | Yellow       |
+| `&f` | White        |
+
+---
+
+## ライセンス
 このプロジェクトは MIT License のもとで公開されています。
