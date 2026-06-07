@@ -1,0 +1,11 @@
+title: "&6&lMC Server"
+
+lines:
+  1: "&7%time% &8| &eDay %day%"
+  2: "&aOnline: &f%online%"
+  3: ""
+  4: "&bPlayer: &f%player%"
+  5: "&7World: &f%world%"
+  6: ""
+  7: "&cX: &f%x% &aY: &f%y% &9Z: &f%z%"
+  8: "&7Ping: &f%ping%ms"
