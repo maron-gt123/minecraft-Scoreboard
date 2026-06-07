@@ -1,8 +1,0 @@
-net\maron_gt123\mcscoreboard\MCScoreboardPlugin.class
-net\maron_gt123\mcscoreboard\scoreboard\BoardManager.class
-net\maron_gt123\mcscoreboard\task\ScoreboardTask.class
-net\maron_gt123\mcscoreboard\placeholder\Placeholders.class
-net\maron_gt123\mcscoreboard\scoreboard\SidebarManager.class
-net\maron_gt123\mcscoreboard\command\MSBCommand.class
-net\maron_gt123\mcscoreboard\listener\PlayerJoinListener.class
-net\maron_gt123\mcscoreboard\scoreboard\SidebarUpdater.class
